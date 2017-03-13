@@ -1,0 +1,70 @@
+/* Основной стиль - строгий черный */
+
+body
+{
+	background-color: #000;
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	margin: 0px;
+}
+
+/* Кнопка "Загрузить" */
+
+p
+{
+	background-color: #333c4a;
+	margin: 0px;
+}
+
+a
+{
+	text-decoration: none;
+	font-size: 35px;
+	background-color: #000;
+	border: solid #000;
+	border-width: 00px 10px 0px 10px 
+}
+
+a:visited {color: #fff;}
+a:link{color: #fff;}
+a:hover
+{
+	heght: 200px;
+	background-color: #495664;
+	border: solid #495664;
+	border-width: 00px 10px 0px 10px
+}
+
+/* Верхний текстовый блок */
+
+h1
+{
+	font-size: 45px;
+	line-height: 110%;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #333c4a;
+	height: 40%;
+	margin: 1.5% 0px 0px 0px;
+}
+
+/* Нижний тектовый блок */
+
+h2
+{
+	font-size: 25px;
+	color: #333c4a;
+	background-color: #B2DFE1;
+	height: 40%;
+	margin: 0px 0px 0px 0px;
+	border: solid #333c4a;
+	border-width: 20px 0px 0px 0px
+}
+
+/* Copyright - блок*/
+
+h3
+{
+	color: #fff;
+	font-size: 12px;
+}
